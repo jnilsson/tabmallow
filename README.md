@@ -1,2 +1,2 @@
-# tabmallow
-New Tab extension for Google Chrome
+# Tabmallow
+A simple and clean new Tab extension for Google Chrome
