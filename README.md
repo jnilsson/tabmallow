@@ -1,4 +1,4 @@
-# Tabmallow ![Icon](/icon48.png) 
+# Tabmallow ![Icon](/icon16.png) 
 A simple and clean new Tab extension for Google Chrome
 
 ![Screenshot](/img/screenshot.png)
